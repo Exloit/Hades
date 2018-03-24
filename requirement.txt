@@ -1,0 +1,4 @@
+requests>=2.3.0
+msgpack-python>=0.1.12
+termcolor
+pyopenssl
