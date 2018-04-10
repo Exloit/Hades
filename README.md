@@ -1,3 +1,4 @@
 "# Hades" 
 
-#python 3
+# Hades is a pentest tools best work in python2
+
